@@ -3,7 +3,7 @@
 
 - 🌱 Experienced and passionate game developer with specializing in Unreal Engine. Skilled in designing and developing high-quality, immersive games across multiple platforms.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhishek337](Github) & [https://www.youtube.com/c/abhishek balu pawar](YouTube)
+- 👨‍💻 All of my projects are available at [https://github.com/abhishek337](https://github.com/abhishek337) & [https://www.youtube.com/c/abhishek balu pawar](https://www.youtube.com/c/abhishek balu pawar)
 
 - 📫 How to reach me **pawarabhishekbalu06@gmail.com**
 
