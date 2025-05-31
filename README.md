@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
 <h3 align="center">Game Developer | Unreal Engine</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek337" alt="abhishek337" /></a> </p>
-
 - 🌱 Experienced and passionate game developer with specializing in Unreal Engine. Skilled in designing and developing high-quality, immersive games across multiple platforms.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishek337](https://github.com/abhishek337)
@@ -29,8 +27,10 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek337&show_icons=true&locale=en&layout=compact" alt="abhishek337" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek337" alt="abhishek337" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek337&show_icons=true&locale=en" alt="abhishek337" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek337&show_icons=true&locale=en&layout=compact" alt="abhishek337" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek337&" alt="abhishek337" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek337&show_icons=true&locale=en" alt="abhishek337" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek337&" alt="abhishek337" /></p>
