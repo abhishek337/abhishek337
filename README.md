@@ -3,7 +3,7 @@
 
 - 🌱 Experienced and passionate game developer with specializing in Unreal Engine. Skilled in designing and developing high-quality, immersive games across multiple platforms.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhishek337](https://github.com/abhishek337) & [https://www.youtube.com/c/abhishek balu pawar](https://www.youtube.com/c/abhishek balu pawar)
+- 👨‍💻 All of my projects are available at [https://github.com/abhishek337](https://github.com/abhishek337) & [http://www.youtube.com/@abhishekpawar06](http://www.youtube.com/@abhishekpawar06)
 
 - 📫 How to reach me **pawarabhishekbalu06@gmail.com**
 
@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/abhishek-pawar-933152134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pawar-933152134" height="30" width="40" /></a>
 <a href="https://www.behance.net/abhishekpawar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhishekpawar16" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abhishek balu pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek balu pawar" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@abhishekpawar06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek balu pawar" height="30" width="40" /></a>
 <a href="https://discord.gg/4408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4408" height="30" width="40" /></a>
 </p>
 
